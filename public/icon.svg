@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="俺の知識帳">
+  <rect width="512" height="512" rx="112" fill="#f7f8fc"/>
+  <rect x="132" y="96" width="248" height="320" rx="28" fill="#ffffff" stroke="#d7dce8" stroke-width="10"/>
+  <rect x="168" y="144" width="176" height="18" rx="9" fill="#aab3c5"/>
+  <rect x="168" y="188" width="144" height="18" rx="9" fill="#c0c7d6"/>
+  <rect x="168" y="232" width="160" height="18" rx="9" fill="#c0c7d6"/>
+  <rect x="168" y="276" width="120" height="18" rx="9" fill="#c0c7d6"/>
+  <rect x="168" y="332" width="176" height="28" rx="14" fill="#2b3a55"/>
+  <path d="M206 344l18 18 42-48" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
